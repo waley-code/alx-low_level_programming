@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Main function 
+ * main - Main function
  * Return: Returns 0
  */
 
