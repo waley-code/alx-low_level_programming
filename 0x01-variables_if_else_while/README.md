@@ -4,4 +4,7 @@
 	This program will assign a random number to the variable n each time it is executed.
 
 ### 1-last digit.c
-	This program will assign a random number to the variable n each time it is executed with a last digit
+	This program will assign a random number to the variable n each time it is executed with a last digit.
+
+### 3. alphABET
+	A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
