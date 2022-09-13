@@ -1,17 +1,19 @@
-#include <stdio.h>
-
+#include "main.h"
 /**
-* main - main function
-* Description: 'The main function'
-* return: returns 0
-*
-* _putchar: prints character
-*/
-
-int main(void)/*Description: 'The main function'*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	printf("_putchar\n"); /*Prints _putchar followed by a line*/
+	char *ch = "Holberton";
 
-	return (0);/*return 0*/
+	while (*ch)
+	{
+		_putchar(*ch);
+		ch++;
+	}
+	_putchar('\n');
 
-} /*end of function main*/
+	return (0);
+}
