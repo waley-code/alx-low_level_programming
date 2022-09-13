@@ -9,3 +9,7 @@
 ### 1-alphabet.c
 
 	A  function that prints the alphabet, in lowercase, followed by a new line.
+
+### 2. 10 x alphabet
+
+	A function that prints 10 times the alphabet, in lowercase, followed by a new line.
