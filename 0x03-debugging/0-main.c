@@ -4,13 +4,12 @@
 
 /**
  * main - Main If Else Statement
+ * @n: number to check
  * Return: Returns 0
  */
 
-int main(void)
+void positive_or_negative(int n)
 {
-
-	int n;
 
 	srand(time(0));
 
