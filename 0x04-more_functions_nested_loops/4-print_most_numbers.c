@@ -4,7 +4,7 @@
 * _putchar - Prints characters
 * Return: Returns 0
 */
-void print_numbers(void)
+void print_most_numbers(void)
 {
 	char num = 48;
 
