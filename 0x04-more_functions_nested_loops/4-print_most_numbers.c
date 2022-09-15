@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_numbers - Function that loops through digits excepts 2 and 4
+* print_most_numbers - Function that loops through digits excepts 2 and 4
 * _putchar - Prints characters
 * Return: Returns 0
 */
