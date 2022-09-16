@@ -23,9 +23,13 @@ int main(void)
 				printf("Buzz ");
 		}
 		else if (b % 3 == 0)
+		{
 			printf("Fizz ");
+		}
 		else
+		{
 			printf("%d ", b);
+		}
 	}
-return (0);
+	return (0);
 }
