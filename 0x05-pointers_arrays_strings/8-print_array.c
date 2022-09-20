@@ -7,11 +7,11 @@
 
 void print_array(int *a, int n)
 {
-	int m, j = 0;
+	int i, p = 0;
 
-	for (m = 0; i < n; i++)
+	for (i = 0; i < n; i++)
 	{
-	if (j != 0)
+	if (p != 0)
 	{
 	printf(", ");
 	}
