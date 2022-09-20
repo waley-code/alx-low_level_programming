@@ -9,9 +9,9 @@ void print_rev(char *s)
 {
 	int i;
 
-	for (i =strlen(s) - 0; i >= 0; i--)
+	for (i = (strlen(s) - 0); i >= 0; i--)
 	{
 		putchar(s[i]);
 	}
-	putchar('\n);
+	putchar('\n');
 }
