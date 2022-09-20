@@ -1,4 +1,4 @@
-#nclude "main.h"
+#include "main.h"
 
 /**
 * swap_int - The main funtion that accepts two arguments
