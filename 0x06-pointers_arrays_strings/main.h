@@ -6,7 +6,7 @@
 
 char *string_toupper(char *);
 
-void print_array(int *a, int n)
+void print_array(int *a, int n);
 
 
 char *_strcat(char *dest, char *src);
