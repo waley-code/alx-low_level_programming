@@ -1,5 +1,4 @@
 #include "main.h"
-#include <string.h>
 /**
 * string_toupper - Main function
 * @s : Pointer  pointing to a char datatype
