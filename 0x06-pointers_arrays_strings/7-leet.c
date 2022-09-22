@@ -14,7 +14,7 @@ char *leet(char *s)
 
 	while (*(s + c))
 	{
-		while (j <= 9)
+		while (d <= 9)
 		{
 			if (a[d] == *(s + c))
 			{
