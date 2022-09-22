@@ -2,6 +2,10 @@
 
 #define MAIN_H
 
+
+
+char *string_toupper(char *);
+
 void print_array(int *a, int n)
 
 int _putchar(char c)
