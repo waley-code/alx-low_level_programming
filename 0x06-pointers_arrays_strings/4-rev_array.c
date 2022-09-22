@@ -6,33 +6,18 @@
 * @n: argument of int datatype
 */
 void reverse_array(int *a, int n)
-
 {
+	int m = n - 1;
 
+	int i = 1;
 
-
-int m = n - 1;
-
-int i = 1;
-
-for (i = m; i >= 0; i--)
-
-{
-
-if (m != n - 1)
-
-{
-
-printf(", ");
-
-}
-
-printf("%i", a[m]);
-
-}
-
-putchar('\n');
-
-
-
+	for (i = m; i >= 0; i--)
+	{
+		if (m != n - 1)
+		{
+			printf(", ");
+		}
+		printf("%i", a[m]);
+	}
+	putchar('\n');
 }
