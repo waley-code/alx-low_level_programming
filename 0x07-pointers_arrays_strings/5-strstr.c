@@ -1,5 +1,6 @@
-#include "main.h"
 #include <stdlib.h>
+#include "main.h"
+
 /**
 *  _strstr - A function that locates a substring
 *  @haystack: the argument speack to search from
