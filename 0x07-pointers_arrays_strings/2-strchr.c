@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stddef.h>
 /**
 * _strchr - A function that locates a string
 * @s: An argument function that points to char variable
@@ -22,5 +23,5 @@ char *_strchr(char *s, char c)
 	{
 		return (s);
 	}
-	return (NUL);
+	return (NULL);
 }
