@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
 * checker - Main function that check for recursive input
 * @n: Argument iterator
