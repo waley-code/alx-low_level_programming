@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 *  _print_rev_recursion - Main function that gets called over
 * @s: Pointer argument pointing to a char datatype
