@@ -5,6 +5,8 @@
 
 int main(int argc, char* argv[]);
 int _putchar(char);
+int _args(int argc, char* argv[]);
+int ismain(int argc, char* argv[]);
 
 
 #endif /*MAIN_H*/
