@@ -1,7 +1,6 @@
 #include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
 * _calloc - Main function to allocates memory
 * @nmemb: Argument of an unsigned int datatype
@@ -22,7 +21,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	{
 		return (NULL);
 	}
-	for (cnt =0;cnt < nmemb * size; cnt++)
+	for (cnt = 0; cnt < nmemb * size; cnt++)
 	{
 		p[cnt] = 0;
 	}
