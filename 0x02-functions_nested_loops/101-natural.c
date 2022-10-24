@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - produce natural numbers below 1024 (!included) which are multiples of 3 || 5.
- * Return: Retuns 0.
- */
+* main - produce natural numbers below 1024
+* (!included) which are multiples of 3 || 5.
+* Return: Retuns 0
+*/
 int main(void)
 {
 	int i, sum = 0;
