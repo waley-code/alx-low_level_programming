@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+void print_number(int n);
 void print_triangle(int size);
 int main(void);
 void print_square(int size);
