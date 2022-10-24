@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - produces 50 Fibonacci numbers, begining from 1 and 2 spaced by a "," and a space.
+ * main - produces 50 Fibonacci numbers
+ * begining from 1 and 2 spaced by a "," and a space.
  * Return: Returns 0.
  */
 int main(void)
