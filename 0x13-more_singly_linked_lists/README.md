@@ -19,3 +19,27 @@
 ### 4-free_listint.c
 
 	A function that frees a listint_t list.
+
+### 5-free_listint2.c
+
+	A function that frees a listint_t list.
+
+### 6-pop_listint.c
+
+	A function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
+
+### 7-get_nodeint.c
+
+	A function that returns the nth node of a listint_t linked list.
+
+### 8-sum_listint.c
+
+	A function that returns the sum of all the data (n) of a listint_t linked list.
+
+### 9-insert_nodeint.c
+
+	A function that inserts a new node at a given position.
+
+### 10-delete_nodeint.c
+
+	A  function that deletes the node at index index of a listint_t linked list.
