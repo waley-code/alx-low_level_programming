@@ -5,7 +5,7 @@
  * @n: int argument
  * Return: Always EXIT_SUCCESS.
  */
-dlistint_t *add_dnodeint(dlistint_t **head, const int n);
+dlistint_t *add_dnodeint(dlistint_t **head, const int n)
 {
 		/* declarations */
 	dlistint_t *new = malloc(sizeof(dlistint_t));
