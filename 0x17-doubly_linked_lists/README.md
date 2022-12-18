@@ -7,3 +7,7 @@
 ### 1-dlistint_len.c
 
 	A function that returns the lenght of elements in a linked dlistint_t list
+	
+### 2-add_dnodeint.c
+	
+	A function that creates double linked node 
