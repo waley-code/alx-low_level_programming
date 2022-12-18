@@ -11,3 +11,7 @@
 ### 2-add_dnodeint.c
 	
 	A function that creates double linked node 
+	
+### 3-add_dnodeint_end.c
+	
+	A function that creates double linked node and attach at the end.
