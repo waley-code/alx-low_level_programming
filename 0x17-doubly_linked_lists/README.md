@@ -15,3 +15,7 @@
 ### 3-add_dnodeint_end.c
 	
 	A function that creates double linked node and attach at the end.
+	
+### 4-free_dlistint.c
+
+	A function that frees double linked node and attach at the end.
