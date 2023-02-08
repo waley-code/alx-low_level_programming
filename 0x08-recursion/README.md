@@ -10,4 +10,4 @@
 
 ### 2-strlen_recursion.c
 
-	A function that returns the length of a s
+	A function that returns the length of a 
