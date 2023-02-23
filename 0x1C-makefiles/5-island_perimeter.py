@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 """ Main module for the perimeter function"""
 
+
 def island_perimeter(grid):
     """
     returns the perimeter of the island described in grid
     """
     if not grid:
         raise ValueError("grid cannot be empty")
-    
+
     row_len = len(grid[0])
     for row in grid:
         if len(row) != row_len:
